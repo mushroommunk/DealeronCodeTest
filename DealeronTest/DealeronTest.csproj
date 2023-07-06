@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Elsheimy.Components.Linears" Version="1.0.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Update="Localizations\Prompts.cy.Designer.cs">
+		  <DesignTime>True</DesignTime>
+		  <AutoGen>True</AutoGen>
+		  <DependentUpon>Prompts.cy.resx</DependentUpon>
+		</Compile>
+		<Compile Update="Localizations\Prompts.Designer.cs">
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>Prompts.resx</DependentUpon>
+		</Compile>
+		<Compile Update="Localizations\Prompts.cy.Designer.cs">
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>Prompts.cy.resx</DependentUpon>
+		</Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Update="Localizations\Prompts.resx">
+			<Generator>ResXFileCodeGenerator</Generator>
+			<LastGenOutput>Prompts.Designer.cs</LastGenOutput>
+		</EmbeddedResource>
+		<EmbeddedResource Update="Localizations\Prompts.cy.resx">
+			<Generator>ResXFileCodeGenerator</Generator>
+			<LastGenOutput>Prompts.cy.Designer.cs</LastGenOutput>
+		</EmbeddedResource>
+	</ItemGroup>
+
+</Project>
