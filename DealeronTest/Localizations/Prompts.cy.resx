@@ -121,81 +121,81 @@
     <value>diwedd</value>
   </data>
   <data name="Grid" xml:space="preserve">
-    <value>Grid Max Coordinates as X Y: </value>
+    <value>Cyfesurynnau Uchafswm Grid fel X Y: </value>
   </data>
   <data name="GridBothMaxError" xml:space="preserve">
-    <value>Was unable to detect both X and Y max co-ordinates for grid.</value>
+    <value>Methu canfod cyfesurynnau X ac Y mwyaf ar gyfer grid.</value>
   </data>
   <data name="GridCoordNegative" xml:space="preserve">
-    <value>Input grid coordinates contained a negative.</value>
+    <value>Roedd cyfesurynnau grid mewnbwn yn cynnwys negatif.</value>
   </data>
   <data name="GridMaxXError" xml:space="preserve">
-    <value>Was unable to detect max X co-ordinate.</value>
+    <value>Methu canfod cyfesuryn X mwyaf.</value>
   </data>
   <data name="GridMaxYError" xml:space="preserve">
-    <value>Was unable to detect max Y co-ordinate.</value>
+    <value>Methu canfod cyfesuryn Y mwyaf.</value>
   </data>
   <data name="InvalidPathInstruction" xml:space="preserve">
-    <value>An invalid instruction somehow made it into the path. Ceasing Run.</value>
+    <value>Daeth cyfarwyddyd annilys rywsut i mewn i'r llwybr. Stopio Rhedeg.</value>
   </data>
   <data name="Language" xml:space="preserve">
     <value>iaith</value>
   </data>
   <data name="LanguageCodeError" xml:space="preserve">
-    <value>That was an invalid language code.</value>
+    <value>Cod iaith annilys oedd hwnnw.</value>
   </data>
   <data name="LanguagePrompt" xml:space="preserve">
-    <value>Please input new language code:</value>
+    <value>Mewnbynnu cod iaith newydd:</value>
   </data>
   <data name="Menu" xml:space="preserve">
     <value>Dewisiadau Dewislen: ailosod - yn clirio maint grid a rovers.  rhedeg - dechrau crwydro crwydro.  iaith - newid iaith.  diwedd - yn cau rhaglen</value>
   </data>
   <data name="OriginInput" xml:space="preserve">
-    <value>Rover Origin and Direction: </value>
+    <value>Tarddiad a Chyfeiriad Crwydro: </value>
   </data>
   <data name="Path" xml:space="preserve">
-    <value>Rover Path: </value>
+    <value>Llwybr Crwydro: </value>
   </data>
   <data name="PressEnter" xml:space="preserve">
-    <value>Please press enter to restart.</value>
+    <value>Pwyswch enter i ailgychwyn.</value>
   </data>
   <data name="Reset" xml:space="preserve">
     <value>ailosod</value>
   </data>
   <data name="RoverDirectionError" xml:space="preserve">
-    <value>Was unable to detect rover initial direction.</value>
+    <value>Methu canfod cyfeiriad cychwynnol y crwydro.</value>
   </data>
   <data name="RoverLocationAndDirectionError" xml:space="preserve">
-    <value>Was unable to detect both X and Y co-ordinates and direction for Rover.</value>
+    <value>Methu â chanfod cyfesurynnau X ac Y a chyfeiriad ar gyfer Rover.</value>
   </data>
   <data name="RoverResponse" xml:space="preserve">
-    <value>Rover new location: {0} and direction: {1}</value>
+    <value>Crwydro lleoliad newydd: {0} a chyfeiriad: {1}</value>
   </data>
   <data name="RoverXError" xml:space="preserve">
-    <value>Was unable to detect rover x co-ordinate.</value>
+    <value>Methu canfod rover X cyfesuryn.</value>
   </data>
   <data name="RoverXMaxError" xml:space="preserve">
-    <value>Rover location would exceed grid max X coordinate. Can not continue.</value>
+    <value>Byddai lleoliad Rover yn fwy na chyfesuryn grid X max. Methu parhau.</value>
   </data>
   <data name="RoverXMinError" xml:space="preserve">
-    <value>Rover location would exceed grid origin X cooridnate. Can not continue.</value>
+    <value>Byddai lleoliad Rover yn fwy na chyfesuryn tarddiad grid X. Methu parhau.</value>
   </data>
   <data name="RoverYError" xml:space="preserve">
-    <value>Was unable to detect rover y co-ordinate.</value>
+    <value>Methu canfod rover Y cyfesuryn.</value>
   </data>
   <data name="RoverYMaxError" xml:space="preserve">
-    <value>Rover location would exceed grid max Y coordinate. Can not continue.</value>
+    <value>Byddai lleoliad Rover yn fwy na chyfesuryn grid Y mwyaf. Methu parhau.</value>
   </data>
   <data name="RoverYMinError" xml:space="preserve">
-    <value>Rover location would exceed grid origin Y coordinate. Can not continue.</value>
+    <value>Byddai lleoliad Rover yn fwy na tharddiad grid Y cyfesuryn. Methu parhau.</value>
   </data>
   <data name="Run" xml:space="preserve">
     <value>rhedeg</value>
   </data>
   <data name="SafetyRestart" xml:space="preserve">
-    <value>For Safety. This will be a full restart from grid definition.</value>
+    <value>Ar gyfer Diogelwch bydd hwn yn ailgychwyn llawn o ddiffiniad grid.</value>
   </data>
   <data name="Title" xml:space="preserve">
-    <value>Space - The Final Frontier</value>
+    <value>Gofod - Y Ffin Olaf</value>
   </data>
 </root>
